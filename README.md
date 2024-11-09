@@ -1,6 +1,6 @@
 # Análisis de Rendimiento Académico de Estudiantes en Escuelas Portuguesas
 
-Este proyecto analiza el rendimiento académico de estudiantes en dos escuelas portuguesas, basándose en el dataset público **Student Performance Dataset**. La información recopilada incluye datos demográficos, sociales y características relacionadas con la escuela, que se utilizarán para comprender mejor las variables que influyen en las calificaciones finales de los estudiantes en Matemáticas y Lengua Portuguesa.
+Este proyecto analiza el rendimiento académico de estudiantes en dos escuelas portuguesas, basándose en el dataset público [**Student Performance Dataset**](https://archive.ics.uci.edu/dataset/320/student+performance) de UCI Machine Learning Repository. La información recopilada incluye datos demográficos, sociales y características relacionadas con la escuela, que se utilizarán para comprender mejor las variables que influyen en las calificaciones finales de los estudiantes en Matemáticas y Lengua Portuguesa.
 
 ## Estructura del proyecto
 
